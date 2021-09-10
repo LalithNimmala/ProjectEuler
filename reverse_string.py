@@ -1,2 +1,1 @@
-for i in range(2,5):
-    print(-i)
+print("hello"[0:3])
